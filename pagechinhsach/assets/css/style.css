@@ -308,3 +308,15 @@ a:hover {
 }
 
 /* End Footer */
+
+@media (max-width: 572px) {
+    .section {
+        top: 110px;
+    }
+    .header .hd-voucher {
+        display: none !important;
+    }
+    .section-title {
+        font-size: 35px;
+    }
+}
